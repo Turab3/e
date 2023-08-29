@@ -1,0 +1,35 @@
+.content{
+    background-color: white;
+    height: 385px;
+    width: 507px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    padding: 20px;
+}
+.margin{
+    margin-left: -50px;
+    margin-top: 25px;
+    width: 325px;
+    height: 43px;
+    border-radius: 50px;
+    border: none;
+    font-weight: 700;
+    background-color: #19B719;
+}
+.rem-color{
+    color: #595C5F;
+}
+
+.for-color{
+    color: #19B719;
+    font-weight: 600;
+    text-decoration:none ;
+}
+
+body,html{
+    background: url(teemu-paananen-OOE4xAnBhKo-unsplash.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
